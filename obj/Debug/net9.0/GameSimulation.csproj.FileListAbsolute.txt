@@ -1,0 +1,28 @@
+C:\Users\amariado\Downloads\New folder\bin\Debug\net9.0\GameSimulation.exe
+C:\Users\amariado\Downloads\New folder\bin\Debug\net9.0\GameSimulation.deps.json
+C:\Users\amariado\Downloads\New folder\bin\Debug\net9.0\GameSimulation.runtimeconfig.json
+C:\Users\amariado\Downloads\New folder\bin\Debug\net9.0\GameSimulation.dll
+C:\Users\amariado\Downloads\New folder\bin\Debug\net9.0\GameSimulation.pdb
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.AssemblyInfo.cs
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.dll
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\refint\GameSimulation.dll
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.pdb
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\GameSimulation.genruntimeconfig.cache
+C:\Users\amariado\Downloads\New folder\obj\Debug\net9.0\ref\GameSimulation.dll
+C:\Users\amariado\Downloads\GameSimulation\bin\Debug\net9.0\GameSimulation.exe
+C:\Users\amariado\Downloads\GameSimulation\bin\Debug\net9.0\GameSimulation.deps.json
+C:\Users\amariado\Downloads\GameSimulation\bin\Debug\net9.0\GameSimulation.runtimeconfig.json
+C:\Users\amariado\Downloads\GameSimulation\bin\Debug\net9.0\GameSimulation.dll
+C:\Users\amariado\Downloads\GameSimulation\bin\Debug\net9.0\GameSimulation.pdb
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.AssemblyInfo.cs
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.dll
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\refint\GameSimulation.dll
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.pdb
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\GameSimulation.genruntimeconfig.cache
+C:\Users\amariado\Downloads\GameSimulation\obj\Debug\net9.0\ref\GameSimulation.dll
